@@ -1,5 +1,6 @@
 # hello-world
 my first github
 
-w directer kdsfjl
-gagas
+my first github is the classic program "Hello-World"
+hahaha
+I will be the best programmer in the world!
